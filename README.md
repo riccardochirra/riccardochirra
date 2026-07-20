@@ -17,6 +17,3 @@
 ### Open to:
 Collaboration on software development projects, preferably as product owner, 
 
-**Fun fact**: I built an ERP system from scratch (WPF + event sourcing) and managed a nearshoring team in Serbia! 
-
-Want to see some code? Ask me about RedoDB or my open-source contributions!
